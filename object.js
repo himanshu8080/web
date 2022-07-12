@@ -80,3 +80,4 @@
 Obj={name:"react",mobile:"1221"};
 
 console.log(email);
+console.log(Obj.name);
